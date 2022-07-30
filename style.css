@@ -53,6 +53,7 @@ header .icons div{
     border-bottom: solid rgba(255,255,255,.3)  0.1px;
     background-color: #010103;    
     z-index: 1;
+    width: 100%;
 }
 
 .links li{  
@@ -469,6 +470,7 @@ footer .links a{
     border: solid rgba(255,255,255,.3)  0.1px;
     
 }
+
 
 
 footer .links a:hover{
